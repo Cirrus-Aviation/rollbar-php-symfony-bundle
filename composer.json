@@ -1,5 +1,5 @@
 {
-    "name": "rollbar/rollbar-php-symfony-bundle",
+    "name": "n3rdysouth/rollbar-php-symfony-bundle",
     "description": "Bundle for Symfony that integrates Rollbar tracker",
     "type": "symfony-bundle",
     "license": "MIT",
